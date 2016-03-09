@@ -225,7 +225,6 @@ function create_config( )
     "all",
     "leave_ban",
     "admin"
-    "plugins",
     },
     sudo_users = {95822747},--Sudo users
     disabled_channels = {},
